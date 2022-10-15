@@ -1,2 +1,8 @@
-# practicing
-first to develop
+<html>
+  <head>
+    <title>hello</title>
+  </head>
+  <body>
+    <h1>hello</h1>
+   </body>
+</html>
